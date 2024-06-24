@@ -67,6 +67,6 @@ This application uses the OpenWeatherMap API to fetch weather data.
 ### `Screenshots`
     To add screenshots, follow the structure below:
 
-    ![Screenshot 1](![Alt text](WeatherApp.png))
+    ![Screenshot 1](!![WeatherApp](https://github.com/Gautam9958/WeatherApp/assets/77527062/dbb11be8-990a-4e74-b871-52632a4f4bc1))
 
 
