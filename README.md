@@ -25,22 +25,19 @@ In the project directory, you can run:
         `npm start`
  
 
-
-### `Project Structure`
-
 weather-app/
-├── node_modules/
-├── public/
-│   ├── index.html
-│   ├── ...
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   ├── weather.css
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+  ├── node_modules/
+  ├── public/
+  │ ├── index.html
+  │ ├── ...
+  ├── src/
+  │ ├── App.js
+  │ ├── index.js
+  │ ├── weather.css
+  ├── .gitignore
+  ├── package.json
+  ├── README.md
+
 
 
 ### `API Integration`
@@ -67,6 +64,6 @@ This application uses the OpenWeatherMap API to fetch weather data.
 ### `Screenshots`
     To add screenshots, follow the structure below:
 
-    ![Screenshot 1](!![WeatherApp](https://github.com/Gautam9958/WeatherApp/assets/77527062/dbb11be8-990a-4e74-b871-52632a4f4bc1))
+![WeatherApp](https://github.com/Gautam9958/WeatherApp/assets/77527062/83bcd98b-726a-4648-a57a-5b405806b38a)
 
 
